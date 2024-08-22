@@ -11,7 +11,7 @@ ms.date: 08/21/2018
 
 # icacls
 
-Displays or modifies discretionary access control lists (DACLs) on specified files, and applies stored DACLs to files in specified directories.
+Integrity Control Access Control Lists. Displays or modifies discretionary access control lists (DACLs) on specified files, and applies stored DACLs to files in specified directories.
 
 > [!NOTE]
 > This command replaces the deprecated [cacls command](cacls.md).
